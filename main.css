@@ -1,0 +1,81 @@
+.father{
+ gap: 150px;
+    background-color: plum;
+    width: 1500px;
+    border: 5px black solid;
+    height: 1500px;
+    justify-content:space-between;
+    align-items:center;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 2px 3px 5px;
+
+}
+.ch{
+    width: 300px;
+    height: 300px;
+    text-shadow: 10px black solid;
+    background-color:bisque;
+    background-size: 200px,200px; 
+    background-repeat: no-repeat;
+    flex-direction: column;
+    overflow: auto;
+    gap: 1px;
+    flex-direction: column;
+ 
+
+}
+
+.ch{
+
+}
+.title{
+    width: 260px;
+    height: 28px;
+    text-shadow:0px 1px 6px purple ;
+    background-color: bisque;
+    padding-left: 10px;
+}   
+.di{
+    box-shadow: 2px 2px 15px;
+    box-sizing: 20px 60px;
+
+
+}
+.pa{
+ 
+    width: 260px;
+    height: vh;
+    box-shadow: 2px 3px 15px;
+    background-color: bisque;
+    padding-left: 10px;
+    padding-right: 6px;
+    box-sizing:300px 100px;
+    
+}
+.pi{
+    padding-left: 10px;
+    width: 260px;
+    box-shadow: 2px 2px 15px;
+    padding-right: 6px;
+    
+    
+}
+
+.d{
+    gap: 150px;
+    background-color: rgb(150, 127, 183);
+    width: 1500px;
+    border: 5px black solid;
+    height: 1500px;
+    justify-content:space-between;
+    align-items:center;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 2px 3px 5px;
+
+
+}
+.ch{
+    box-shadow: 4px 2px 15px;
+}
